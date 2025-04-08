@@ -1,0 +1,13 @@
+#user {
+  .user {
+    padding-top: 5rem;
+
+    &-content {
+      padding: 1.5rem;
+
+      &-header {
+        margin-bottom: 3rem;
+      }
+    }
+  }
+}
